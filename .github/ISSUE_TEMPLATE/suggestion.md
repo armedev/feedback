@@ -2,7 +2,7 @@
 name: Suggestion
 about: Template for suggestions
 title: 'Suggest: '
-labels: ''
+labels: suggest
 assignees: armedev
 
 ---
