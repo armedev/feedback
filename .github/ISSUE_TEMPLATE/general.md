@@ -2,7 +2,7 @@
 name: General
 about: For everything else
 title: 'Gen: '
-labels: ''
+labels: General
 assignees: armedev
 
 ---

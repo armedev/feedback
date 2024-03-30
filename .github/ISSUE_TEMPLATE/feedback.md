@@ -2,7 +2,7 @@
 name: Feedback
 about: Template for feedbacks on blogs
 title: 'Feedback: '
-labels: ''
+labels: feedback
 assignees: armedev
 
 ---
